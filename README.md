@@ -60,5 +60,17 @@ English - Professional //
 Russian - Professional //
 Georgian - Native
 
+COURSES : 
+
+Data Analytics & Power BI Development // Smart Academy | May -July 2024 | Certificate
+
+Master Coach of Sales Trainings // AVON Georgia | October 2012 | Certificate
+
+Master of Direct Selling // AVON Georgia | November 2012 | Certificate
+
+Business & Marketing Management // Peace Corps | June - July 2004 | Certificate
+
+
+
 
  
