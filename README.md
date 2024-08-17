@@ -1,4 +1,4 @@
-JUNIOR DATA ANALYST
+TITLE : JUNIOR DATA ANALYST
 
 Professional Experience :
 
