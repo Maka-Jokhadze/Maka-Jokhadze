@@ -50,14 +50,14 @@ EDUCATION :
 Master of Business Administration Gori State University 
 Sept 2014 - June 2016 
 
-Bachelor of Foreign Languages
-Gori State University 
+Bachelor of Foreign Languages - 
+Gori State University - 
 Sept 1996 - June 2001
 
 LANGUAGES :
 
-English - Professional
-Russian - Professional 
+English - Professional //
+Russian - Professional //
 Georgian - Native
 
 
