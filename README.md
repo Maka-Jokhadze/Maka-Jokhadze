@@ -47,7 +47,7 @@ clients. • Streamlined client onboarding processes and satisfaction. Streamlin
 
 EDUCATION :
 
-Master of Business Administration Gori State University 
+Master of Business Administration - Gori State University -
 Sept 2014 - June 2016 
 
 Bachelor of Foreign Languages - 
