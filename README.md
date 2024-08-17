@@ -1,6 +1,6 @@
-Junior Data Analyst
+JUNIOR DATA ANALYST
 
-PROFESSIONAL EXPERIENCE :
+Professional Experience :
 
 MGEMS . ემჯემსი / Mar 2019 - Present
 
