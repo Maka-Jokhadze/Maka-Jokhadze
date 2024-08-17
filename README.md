@@ -2,6 +2,7 @@ JUNIOR DATA ANALYST:
 
 I'm open to new challenges in Big Data, considering junior data analyst role . With over 12 years of work experience in sales at managerial level and over 5 years in my own business I'm aware of all business pros and cons , I am changing my field to data analytics as I have a passion to Data Analyses and Problem Solving, so I have learned SQL and Power BI at Smart Academy . I value culture of innovation, teamwork, and social responsibility. My unique insights are shaped by master's degree in Business Administration .
 
+
 Professional Experience :
 
 MGEMS / Mar 2019 - Present
@@ -45,6 +46,7 @@ JSC BANK OF GEORGIA / Jun 2006 - Mar 2008
 Delivered exceptional customer service while managing banking transactions and facilitating money transfers for
 clients. • Streamlined client onboarding processes and satisfaction. Streamlined client onboarding processes and satisfaction. 
 
+
 EDUCATION :
 
 Master of Business Administration - Gori State University -
@@ -54,11 +56,13 @@ Bachelor of Foreign Languages -
 Gori State University - 
 Sept 1996 - June 2001
 
+
 LANGUAGES :
 
 English - Professional //
 Russian - Professional //
 Georgian - Native
+
 
 COURSES : 
 
@@ -69,6 +73,12 @@ Master Coach of Sales Trainings // AVON Georgia | October 2012 | Certificate
 Master of Direct Selling // AVON Georgia | November 2012 | Certificate
 
 Business & Marketing Management // Peace Corps | June - July 2004 | Certificate
+
+
+KEY COMPETENCIES : 
+
+Data Analysis // Problem Solving // E-Commerce // MS SQL // Excel // Power BI // Power Point // Canva // Meta Ads //
+Google Ads // Google Analytics // SWOT
 
 
 
