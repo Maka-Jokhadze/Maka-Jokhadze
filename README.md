@@ -1,7 +1,2 @@
-- 👋 Hi, I’m Maka Jokhadze
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Google Advanced Data Analytics Professional Course
-- 💞️ I’m looking to become an intern data analyst at a fast-paced company 
-- 📫 How to reach me :- maka.jokhadze111@gmail.com
--  LinkedIn Profile :
--  www.linkedin.com/in/maka-jokhadze-8a5002303
+MAKA JOKHADZE
+Junior Data Analyst
