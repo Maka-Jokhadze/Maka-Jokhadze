@@ -4,7 +4,7 @@ I'm open to new challenges in Big Data, considering junior data analyst role . W
 
 Professional Experience :
 
-MGEMS . ემჯემსი / Mar 2019 - Present
+MGEMS / Mar 2019 - Present
 
 *Business Owner | Entrepreneur*
 
