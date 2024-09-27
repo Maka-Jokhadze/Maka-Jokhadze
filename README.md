@@ -1,6 +1,6 @@
-JUNIOR DATA ANALYST:
+ DATA ANALYST:
 
-I'm open to new challenges in Big Data, considering junior data analyst role . With over 12 years of work experience in sales at managerial level and over 5 years in my own business I'm aware of all business pros and cons , I am changing my field to data analytics as I have a passion to Data Analyses and Problem Solving, so I have learned SQL and Power BI at Smart Academy . I value culture of innovation, teamwork, and social responsibility. My unique insights are shaped by master's degree in Business Administration .
+I'm open to new challenges in Data, considering data analyst role . With over 12 years of work experience in sales at managerial level and over 5 years in my own business I'm aware of all business pros and cons , I am changing my field to data analytics as I have a passion to Data Analyses and Problem Solving, so I have learned SQL and Power BI at Smart Academy . I value culture of innovation, teamwork, and social responsibility. My unique insights are shaped by master's degree in Business Administration .
 
 
 Professional Experience :
